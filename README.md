@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
  -->
- I’m currently pursuing my Bachelor's in Computer Science and Engineering.
+ Pursuing my Bachelor's in Computer Science and Engineering.
  
  📫 How to reach me: karankaram@rknec.edu
 
